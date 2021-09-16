@@ -9,7 +9,7 @@ setup(
     author='Oscar Batista',
     author_email="oscarjr01.13@gtmail.com",
     license="GPLv3",
-    url="https://github.com/strymsg/python-simplemotds",
+    url="https://github.com/fcoscar/libreria-vocales-intec.git",
     classifiers = ["Programming Language :: Python :: 3", \
                    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)", \
                    "Development Status :: 4 - Beta", "Intended Audience :: Developers", \
